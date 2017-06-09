@@ -1,0 +1,12 @@
+# shell aliases
+alias gel='git pull'
+alias gcm='git co master'
+alias kj='killall -9 java'
+
+# git aliases
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	ci = commit
+  hist = log --all --decorate --abbrev-commit --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%C    reset'
