@@ -1,22 +1,22 @@
 [
   {
-    "shortcut_key_binding" : "alt+shift+cmd+]",
-    "shortcut_name" : "RedoLastMove"
+    "shortcut_key_binding" : "ctrl+alt+left",
+    "shortcut_name" : "MoveToPreviousThird"
   },
   {
     "shortcut_key_binding" : "ctrl+alt+shift+left",
     "shortcut_name" : "MakeSmaller"
   },
   {
-    "shortcut_key_binding" : "ctrl+alt+left",
-    "shortcut_name" : "MoveToPreviousThird"
+    "shortcut_key_binding" : null,
+    "shortcut_name" : "RedoLastMove"
   },
   {
     "shortcut_key_binding" : "ctrl+cmd+right",
     "shortcut_name" : "MoveToUpperRight"
   },
   {
-    "shortcut_key_binding" : null,
+    "shortcut_key_binding" : "alt+cmd+down",
     "shortcut_name" : "MoveToBottomHalf"
   },
   {
@@ -24,11 +24,11 @@
     "shortcut_name" : "MoveToNextDisplay"
   },
   {
-    "shortcut_key_binding" : null,
+    "shortcut_key_binding" : "alt+cmd+up",
     "shortcut_name" : "MoveToTopHalf"
   },
   {
-    "shortcut_key_binding" : "ctrl+cmd+up",
+    "shortcut_key_binding" : "ctrl+shift+cmd+left",
     "shortcut_name" : "MoveToLowerLeft"
   },
   {
@@ -36,12 +36,12 @@
     "shortcut_name" : "MakeLarger"
   },
   {
-    "shortcut_key_binding" : "alt+shift+cmd+[",
-    "shortcut_name" : "UndoLastMove"
-  },
-  {
     "shortcut_key_binding" : "ctrl+alt+cmd+left",
     "shortcut_name" : "MoveToPreviousDisplay"
+  },
+  {
+    "shortcut_key_binding" : null,
+    "shortcut_name" : "UndoLastMove"
   },
   {
     "shortcut_key_binding" : "ctrl+alt+cmd+f",
@@ -52,7 +52,7 @@
     "shortcut_name" : "MoveToNextThird"
   },
   {
-    "shortcut_key_binding" : "alt+cmd+[",
+    "shortcut_key_binding" : "alt+cmd+left",
     "shortcut_name" : "MoveToLeftHalf"
   },
   {
@@ -60,11 +60,11 @@
     "shortcut_name" : "MoveToCenter"
   },
   {
-    "shortcut_key_binding" : "alt+cmd+]",
+    "shortcut_key_binding" : "alt+cmd+right",
     "shortcut_name" : "MoveToRightHalf"
   },
   {
-    "shortcut_key_binding" : "ctrl+cmd+down",
+    "shortcut_key_binding" : "ctrl+shift+cmd+right",
     "shortcut_name" : "MoveToLowerRight"
   },
   {
