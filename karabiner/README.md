@@ -1,1 +1,1 @@
-Put `karabiner` directory under `~/.config`
+Put the files in the `karabiner` directory under `~/.config/karabiner`
